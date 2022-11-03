@@ -1,11 +1,7 @@
-![Testnet ve Rehber (Facebook Kapak Fotoğrafı) (1300 × 500 piksel) (600 × 200 piksel) (400 × 150 piksel) (1300 × 500 piksel) (Facebook Kapak Fotoğrafı) (1400 × 600 piksel) (1300 × 500 piksel)](https://user-images.githubusercontent.com/95782145/199621993-c75b7904-1567-4cb0-bdb5-9d2fbdfbbcd1.gif)
 
- - Pi Network Ambassador 
- - Pi Network KYC validator 
- - Pi Network Validator 
- - Nulink Validator 
- - Inery Validator
+![Adsız (Kart (Yatay)) (1300 × 500 piksel)](https://user-images.githubusercontent.com/95782145/199624914-4451cafb-df90-4f8c-9a5c-0495b7a3e86e.png)
 
+<p align="center">
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Website](http://tarikvarol.com.tr)
@@ -16,9 +12,9 @@
 src="https://img.shields.io/twitter/follow/baytarikv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/baytarikv07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+ 
+ 
 ### Skills
-
 
 <p align="left">
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
