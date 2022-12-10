@@ -3,7 +3,7 @@
 
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [Website](http://tarikvarol.com.tr)
+* 🖥️  See my portfolio at [Website](http://baytarik.bnb.me)
 * ✉️  You can contact me at [tarikvaroltr@gmail.com](mailto:tarikvaroltr@gmail.com)
 * ⚡  Are you looking for a Tesnet, follow me :)
 
@@ -14,8 +14,8 @@ src="https://img.shields.io/github/followers/baytarikv07?logo=github&style=for-t
  
 ### Other Social Networks
 
-[![website](./img/globe-light.svg)](https://tarikvarol.com.tr#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://tarikvarol.com.tr#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://baytarik.bnb.me#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://baytarik.bnb.me#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/baytarikv#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/baytarikv#gh-dark-mode-only)
